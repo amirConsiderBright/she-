@@ -104,7 +104,7 @@
                 ],
 
                 // 工作经验
-                expCompany1: {
+                expCompany2: {
                     time: '2017.09 - 2020.06',
                     title: '顺德新容奇医院',
                     color: '#722ed1',
@@ -113,7 +113,7 @@
                     ]
                 },
 
-                expCompany2: {
+                expCompany1: {
                     time: '2020.07 - 至今',
                     title: '深圳优脂整容美容医院',
                     color: '#6699CC',
